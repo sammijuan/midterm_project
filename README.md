@@ -464,7 +464,6 @@ HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
 
 ![NUCLEO-G474RE 實機](docs/board.jpg)
 
-
 ```
 
 ---
